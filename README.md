@@ -1,8 +1,9 @@
 # Seja bem vindo ao meu repositório do projeto de ES6 e Testes Unitários!
 
-## [Requisitos que eu implementei no projeto](#requisitos-do-projeto)
+## Requisitos que eu implementei no projeto
 
 - [Lista de requisitos](#lista-de-requisitos)
+
   - [Implemente a função average](#1---implemente-a-função-average)
   - [Implemente os casos de teste para a função numbers](#2---implemente-os-casos-de-teste-para-a-função-numbers)
   - [Implemente a função vqv](#3---implemente-a-função-vqv)
