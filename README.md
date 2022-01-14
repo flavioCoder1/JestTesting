@@ -1,6 +1,7 @@
 # Seja bem vindo ao meu repositório do projeto de ES6 e Testes Unitários!
 
-- [Requisitos do projeto](#requisitos-do-projeto)
+- [Requisitos que eu implementei no projeto](#requisitos-do-projeto)
+- 
 - [Lista de requisitos](#lista-de-requisitos)
   - [Implemente a função average](#1---implemente-a-função-average)
   - [Implemente os casos de teste para a função numbers](#2---implemente-os-casos-de-teste-para-a-função-numbers)
@@ -19,7 +20,7 @@
 
 ## Habilidades
 
-Nesse projeto, você será capaz de:
+Nesse projeto eu desenvolvi a capacidade de:
 
 - Escrever testes unitários para funções utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
 - A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
@@ -64,7 +65,6 @@ Cada função possui um bloco de comentários em suas primeiras linhas explicand
 
 ## Requisitos que eu implementei no projeto
 
-⚠ **PULL REQUESTS COM ISSUES NO CODE CLIMATE NÃO SERÃO AVALIADAS, ATENTE-SE PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠
 
 ### 1 - Implementei a função `average`
 
