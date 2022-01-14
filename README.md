@@ -12,9 +12,6 @@
   - [Implemente a função objCalculator](#7---implemente-a-função-objcalculator)
   - [Implemente a função myCounter](#8---implemente-a-função-mycounter)
   - [Implemente os casos de teste e a função createMenu](#9---implemente-os-casos-de-teste-e-a-função-createmenu)
-- [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos finais](#avisos-finais)
 
 ---
 
